@@ -2,10 +2,10 @@
 
 
 
->"La vida es breve, el arte es largo,
->la oportunidad fugaz, la experiencia engañosa y el juicio difícil."
+>_"La vida es breve, el arte es largo,_
+>_la oportunidad fugaz, la experiencia engañosa y el juicio difícil."_
 -Hipócrates
 
-  ##📫 Situado en Madrid, España
-  ##⚡ Estudiando en U-TAD
+  📫 Situado en Madrid, España
+  ⚡ Estudiando en U-TAD
 
