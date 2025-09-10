@@ -1,4 +1,4 @@
-## Hola! Hello! Bonjour! Hallo! Ciao! Me llamo Adrián ##
+## Hola! Hello! Bonjour! Hallo! Ciao! Me llamo Adrián 
 
 
 
@@ -6,5 +6,6 @@
 >la oportunidad fugaz, la experiencia engañosa y el juicio difícil."
 -Hipócrates
 
-  📫 Situado en Madrid, España
-⚡ Estudiando en U-TAD
+  ##📫 Situado en Madrid, España
+  ##⚡ Estudiando en U-TAD
+
